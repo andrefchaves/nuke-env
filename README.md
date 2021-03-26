@@ -12,4 +12,4 @@ I'm having some errors when hiding and unhiding the input. It doesn't seem to re
 
 ### Autolabel_Grade v1.1
 Automatically adds label with knobs that have changes.
-Useful if you have multiple Grade nodes with different knob changes in each one. It's the best workflow but useful if you do different color processes in different nodes, i.e. Black Point/White Point on one then Gamma on another..
+Useful if you have multiple Grade nodes with different knob changes in each one. It's not the best workflow but useful if you do different color processes in different nodes, i.e. Black Point/White Point on one then Gamma on another..
