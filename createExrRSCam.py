@@ -1,7 +1,7 @@
 ''' 
-I just fixed the syntax to work with the latest RS versions 3.0.xx and Nuke 13
+I just did some really small UX fix and fixed the syntax to work with the latest RS versions 3.0.xx and Nuke 13 (Python 3)
 
-The main createExrCamVray translation comes from user JanB at Redshift/Maxon forum (https://redshift.maxon.net/topic/2249/exr-metadata-done/28)
+All text and the main createExrCamVray translation comes from user JanB at Redshift/Maxon forum (https://redshift.maxon.net/topic/2249/exr-metadata-done/28)
 Original CamVRay.py: https://github.com/throb/vfxpipe/blob/master/nuke/fxpipenukescripts/createExrCamVray.py
 
 -
