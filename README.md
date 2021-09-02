@@ -2,6 +2,12 @@
 
 ## Python Scripts
 
+### createExrRSCam
+Create a camera node based on RS metadata.
+I just did some really small UX fix and fixed the syntax to work with the latest RS versions 3.0.xx and Nuke 13 (Python 3)
+All text and the main createExrCamVray translation comes from user JanB at Redshift/Maxon forum (https://redshift.maxon.net/topic/2249/exr-metadata-done/28)
+
+
 ### Autolabel_Dots v1.4
 Automatically adds label to dot node when you hide the input. Label displays last connected node.
 Useful to organize messy node trees.
